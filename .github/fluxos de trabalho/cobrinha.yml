@@ -23,9 +23,4 @@ empregos :
           build_dir : dist
         env :
           GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
-  
-© 2022 GitHub, Inc.
-Termos
-Privacidade
-Segurança
-Status
+
